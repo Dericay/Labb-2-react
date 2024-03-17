@@ -5,6 +5,7 @@ import CV from "./pages/CV";
 import Projects from "./pages/Projects";
 import './NavStyle.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Footer from './Footer';
 
 
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="/Projects" element={<Projects/>}/>
         </Routes>
       </Router>
+      <Footer/>
     </div>
   );
 }

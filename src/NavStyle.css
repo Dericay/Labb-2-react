@@ -299,3 +299,10 @@ section {
     margin-top: 10px;
 }
 
+
+footer {
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}

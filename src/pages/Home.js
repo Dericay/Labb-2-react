@@ -32,7 +32,7 @@ const Home = () => {
                     <h2>Welcome!</h2>
                     <div>
                         <p>On this site you can read abit about me.<br />Navigate through the menu on the left side.<br />
-                        <img id="bildme" src="./Labb-2-react/Images/IMG_20240220_170055.jpg" alt="Me" />
+                        <img id="bildme" src={process.env.PUBLIC_URL + '/lab-two/public/Images/IMG_20240220_170055.jpg'} alt="Me" /> 
                         </p>
                     </div>
                 </section>
