@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Labb-2-react/static/css/main.8c20c498.css",
-    "main.js": "/Labb-2-react/static/js/main.a93b85c4.js",
+    "main.js": "/Labb-2-react/static/js/main.f59c6e9f.js",
     "static/js/453.0edc3d24.chunk.js": "/Labb-2-react/static/js/453.0edc3d24.chunk.js",
     "static/media/output-onlinegiftools.gif": "/Labb-2-react/static/media/output-onlinegiftools.d97b1489f4b20e72584e.gif",
     "index.html": "/Labb-2-react/index.html",
     "main.8c20c498.css.map": "/Labb-2-react/static/css/main.8c20c498.css.map",
-    "main.a93b85c4.js.map": "/Labb-2-react/static/js/main.a93b85c4.js.map",
+    "main.f59c6e9f.js.map": "/Labb-2-react/static/js/main.f59c6e9f.js.map",
     "453.0edc3d24.chunk.js.map": "/Labb-2-react/static/js/453.0edc3d24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c20c498.css",
-    "static/js/main.a93b85c4.js"
+    "static/js/main.f59c6e9f.js"
   ]
 }
