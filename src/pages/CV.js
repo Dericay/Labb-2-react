@@ -35,7 +35,7 @@ const CV = () => {
                             </ul>
                         </div>
                         <div className="column-2">
-                            <img src="./Images/IMG_20240220_170055.jpg" className="small-img" alt="Photo" />
+                            <img src={process.env.PUBLIC_URL + '/Images/IMG_20240220_170055.jpg'} className="small-img" alt="Photo" />
                             <br />
                             <h2>Information</h2>
                             <ul>
