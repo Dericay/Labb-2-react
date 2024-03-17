@@ -10,7 +10,7 @@ const EasterEgg = ({ isVisible, setIsVisible, isVisibleGif, setIsVisibleGif }) =
             </div>
             <div className="gif-container" style={{ display: isVisibleGif ? 'block' : 'none' }}>
                 <span className="close-btn" onClick={() => setIsVisibleGif(false)}>X</span>
-                <img src="./Images/giphy.gif" alt="Easter egg GIF" />
+                <img src="./Labb-2-react/Images/giphy.gif" alt="Easter egg GIF" />
             </div>
         </div>
     );

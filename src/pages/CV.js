@@ -11,7 +11,7 @@ const CV = () => {
                 <h1 id="h1head">CV</h1>
             </header>
             <ul id="nav">
-                <li><NavLink to="/">Home</NavLink></li>
+                <li><NavLink to="/Labb-2-react">Home</NavLink></li>
                 <li><NavLink to="/About">About</NavLink></li>
                 <li><NavLink to="/CV">CV</NavLink></li>
                 <li><NavLink to="/Projects">Projects</NavLink></li>
@@ -35,7 +35,7 @@ const CV = () => {
                             </ul>
                         </div>
                         <div className="column-2">
-                            <img src="./Images/IMG_20240220_170055.jpg" className="small-img" alt="Photo" />
+                            <img src="./Labb-2-react/Images/IMG_20240220_170055.jpg" className="small-img" alt="Photo" />
                             <br />
                             <h2>Information</h2>
                             <ul>
