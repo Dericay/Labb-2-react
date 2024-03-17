@@ -8,7 +8,7 @@ return (
         <h1 id="h1head">Contact</h1>
     </header>
     <ul id="nav">
-        <li><NavLink to="/">Home</NavLink></li>
+        <li><NavLink to="/Home">Home</NavLink></li>
         <li><NavLink to="/About">About</NavLink></li>
         <li><NavLink to="/CV">CV</NavLink></li>
         <li><NavLink to="/Projects">Projects</NavLink></li>
